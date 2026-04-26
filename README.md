@@ -1,2 +1,9 @@
-# Code2Xplore-DAY-9
-Simulation of data replication using shallow and deep copy in Python with integrity analysis and corruption detection.
+# Data Replication & Integrity Analyzer  
+
+This project demonstrates shallow copy, deep copy, and data integrity issues in Python.  
+
+## Features  
+- Nested data structures  
+- Shallow vs Deep Copy  
+- Data leakage detection  
+- Integrity analysis
